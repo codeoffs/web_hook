@@ -1,9 +1,11 @@
 */config/development
+*/application/logs/*.php
 */logs/log-*.php
 */logs/!index.html
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+*.htaccess
 
 # =========================
 # Operating System Files
